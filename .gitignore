@@ -30,8 +30,3 @@ Thumbs.db
 
 # Dataset files
 data/household_power_consumption.txt
-data/energy_15min.csv
-
-# Trained model files
-model/energy_lstm.keras
-model/energy_scaler.pkl
